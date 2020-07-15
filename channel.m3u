@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="ARD.de" group-title="National" tvg-logo="https://images.zattic.com/logos/2a2a4aee64bbd6f7f817/black/210x120.png", Das Erste HD
+http://192.168.118.129:8080/index.m3u8?channel=ard
+#EXTINF:0001 tvg-id="ZDF.de" group-title="National" tvg-logo="https://images.zattic.com/logos/42a29350387ee5fda8fe/black/210x120.png", ZDF HD
+http://192.168.118.129:8080/index.m3u8?channel=zdf
+#EXTINF:0001 tvg-id="RTL.de" group-title="National" tvg-logo="https://images.zattic.com/logos/4c25fb45ece20ff4a3e6/black/210x120.png", RTL Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=rtl_deutschland
+#EXTINF:0001 tvg-id="Pro7.de" group-title="National" tvg-logo="https://images.zattic.com/logos/7d70f907fd2e4cf55db4/black/210x120.png", Pro7 Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=pro7_deutschland
+#EXTINF:0001 tvg-id="Sat1.de" group-title="National" tvg-logo="https://images.zattic.com/logos/e386fb79e4081e57f17d/black/210x120.png", Sat.1 Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=sat1_deutschland
+#EXTINF:0001 tvg-id="Vox.de" group-title="National" tvg-logo="https://images.zattic.com/logos/161c7e8fb0e83a8f6c7a/black/210x120.png", Vox Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=vox_deutschland
+#EXTINF:0001 tvg-id="Kabel.de" group-title="National" tvg-logo="https://images.zattic.com/logos/e9d89641d8840cb52400/black/210x120.png", Kabel Eins Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=kabel_eins_deutschland
+#EXTINF:0001 tvg-id="RTL2.de" group-title="National" tvg-logo="https://images.zattic.com/logos/fa880b5397d246ebcdf6/black/210x120.png", RTL Zwei Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=rtl2_deutschland
+#EXTINF:0001 tvg-id="SuperRTL.de" group-title="National" tvg-logo="https://images.zattic.com/logos/b58632057a75a23b76fc/black/210x120.png", Super RTL Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=super_rtl_deutschland
+#EXTINF:0001 tvg-id="Sport1HD.de" group-title="National" tvg-logo="https://images.zattic.com/logos/0b6f9ae4e5e13ae554ea/black/210x120.png", Sport1 HD
+http://192.168.118.129:8080/index.m3u8?channel=dsf
+#EXTINF:0001 tvg-id="DMax.de" group-title="National" tvg-logo="https://images.zattic.com/logos/36a46286c8644f6311c3/black/210x120.png", DMAX HD
+http://192.168.118.129:8080/index.m3u8?channel=dmax
+#EXTINF:0001 tvg-id="Eurosport1.de" group-title="National" tvg-logo="https://images.zattic.com/logos/ba0a20cbde9e86d1f54a/black/210x120.png", Eurosport 1 HD
+http://192.168.118.129:8080/index.m3u8?channel=eurosport
+#EXTINF:0001 tvg-id="Sixx.de" group-title="National" tvg-logo="https://images.zattic.com/logos/5e347fdec3249213a1ce/black/210x120.png", Sixx HD
+http://192.168.118.129:8080/index.m3u8?channel=sixx_deutschland
+#EXTINF:0001 tvg-id="ProSiebenMaxx.de" group-title="National" tvg-logo="https://images.zattic.com/logos/202b14c516b91546a701/black/210x120.png", ProSieben MAXX HD
+http://192.168.118.129:8080/index.m3u8?channel=pro7maxx
+#EXTINF:0001 tvg-id="VOXup.de" group-title="National" tvg-logo="https://images.zattic.com/logos/b5ffc91948634e9c2022/black/210x120.png", VOXup HD
+http://192.168.118.129:8080/index.m3u8?channel=vox_up_de
+#EXTINF:0001 tvg-id="ComedyCentral/VIVA.de" group-title="National" tvg-logo="https://images.zattic.com/logos/82821837c19fc1a84508/black/210x120.png", Comedy Central HD
+http://192.168.118.129:8080/index.m3u8?channel=comedycentral_de
+#EXTINF:0001 tvg-id="TLC.de" group-title="National" tvg-logo="https://images.zattic.com/logos/bde1bad6b2c45f85c8d9/black/210x120.png", TLC HD
+http://192.168.118.129:8080/index.m3u8?channel=tlc
+#EXTINF:0001 tvg-id="HGTV.de" group-title="National" tvg-logo="https://images.zattic.com/logos/7a47539957e5509d3847/black/210x120.png", HGTV HD
+http://192.168.118.129:8080/index.m3u8?channel=hgtv_de
+#EXTINF:0001 tvg-id="WELT.de" group-title="National" tvg-logo="https://images.zattic.com/logos/1542f49047d14602c5a5/black/210x120.png", WELT HD
+http://192.168.118.129:8080/index.m3u8?channel=n24
+#EXTINF:0001 tvg-id="N24Doku.de" group-title="National" tvg-logo="https://images.zattic.com/logos/2d6c505fb41047b8f5e5/black/210x120.png", N24 Doku HD
+http://192.168.118.129:8080/index.m3u8?channel=n24_doku
+#EXTINF:0001 tvg-id="ntv.de" group-title="National" tvg-logo="https://images.zattic.com/logos/141965c41ed0afe5e31b/black/210x120.png", n-tv HD
+http://192.168.118.129:8080/index.m3u8?channel=ntv_de
+#EXTINF:0001 tvg-id="SkySportNewsHD.de" group-title="National" tvg-logo="https://images.zattic.com/logos/ba6f36cedc3167c89a31/black/210x120.png", Sky Sport News HD
+http://192.168.118.129:8080/index.m3u8?channel=sky_sport_news_de
+#EXTINF:0001 tvg-id="KabelEinsDoku.de" group-title="National" tvg-logo="https://images.zattic.com/logos/c45b32c1acaafa5e9fc9/black/210x120.png", Kabel Eins Doku HD
+http://192.168.118.129:8080/index.m3u8?channel=kabel1_doku
+#EXTINF:0001 tvg-id="Tele5.de" group-title="National" tvg-logo="https://images.zattic.com/logos/736d263a51975130a366/black/210x120.png", TELE 5 HD
+http://192.168.118.129:8080/index.m3u8?channel=tele-5
+#EXTINF:0001 tvg-id="Nickelodeon.de" group-title="National" tvg-logo="https://images.zattic.com/logos/d25116c13fc48e589527/black/210x120.png", Nick/MTV+ HD
+http://192.168.118.129:8080/index.m3u8?channel=nickelodeon
+#EXTINF:0001 tvg-id="Kika.de" group-title="National" tvg-logo="https://images.zattic.com/logos/103d7ac1a610d2b93ff3/black/210x120.png", Kika HD
+http://192.168.118.129:8080/index.m3u8?channel=kika
+#EXTINF:0001 tvg-id="TOGGOplus.de" group-title="National" tvg-logo="https://images.zattic.com/logos/4fbe5283731223513e5e/black/210x120.png", TOGGO plus HD
+http://192.168.118.129:8080/index.m3u8?channel=toggo_plus
+#EXTINF:0001 tvg-id="RocketBeans.de" group-title="National" tvg-logo="https://images.zattic.com/logos/0a73da8e0a56256f8bc5/black/210x120.png", Rocket Beans TV HD
+http://192.168.118.129:8080/index.m3u8?channel=rocketbeans
+#EXTINF:0001 tvg-id="MTVGermany.de" group-title="National" tvg-logo="https://images.zattic.com/logos/48532df75c51e1add658/black/210x120.png", MTV Germany HD
+http://192.168.118.129:8080/index.m3u8?channel=mtvgermany
+#EXTINF:0001 tvg-id="3sat.de" group-title="National" tvg-logo="https://images.zattic.com/logos/1b22cde51d6ac1ccd5e0/black/210x120.png", 3Sat HD
+http://192.168.118.129:8080/index.m3u8?channel=3sat
+#EXTINF:0001 tvg-id="ARTE.de" group-title="National" tvg-logo="https://images.zattic.com/logos/865aac6dd62f5bf74ebc/black/210x120.png", ARTE HD
+http://192.168.118.129:8080/index.m3u8?channel=DE_arte
+#EXTINF:0001 tvg-id="phoenix.de" group-title="National" tvg-logo="https://images.zattic.com/logos/a0b41e9eea449229f713/black/210x120.png", Phoenix HD
+http://192.168.118.129:8080/index.m3u8?channel=phoenix
+#EXTINF:0001 tvg-id="ndrnds.de" group-title="National" tvg-logo="https://images.zattic.com/logos/29a7c6a23050e3820a3b/black/210x120.png", NDR Niedersachsen HD
+http://192.168.118.129:8080/index.m3u8?channel=ndr-niedersachsen
+#EXTINF:0001 tvg-id="MDRSachsen.de" group-title="National" tvg-logo="https://images.zattic.com/logos/9c61c6c262ad41f0c19e/black/210x120.png", MDR SACHSEN HD
+http://192.168.118.129:8080/index.m3u8?channel=mdr-sachsen
+#EXTINF:0001 tvg-id="WDR.de" group-title="National" tvg-logo="https://images.zattic.com/logos/945bbdc01b79bfc27f28/black/210x120.png", WDR Köln HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-koeln
+#EXTINF:0001 tvg-id="BRNord.de" group-title="National" tvg-logo="https://images.zattic.com/logos/3c4edc97353da524e999/black/210x120.png", BR Fernsehen Nord HD
+http://192.168.118.129:8080/index.m3u8?channel=br_nord
+#EXTINF:0001 tvg-id="SWR-rp.de" group-title="National" tvg-logo="https://images.zattic.com/logos/3cd42e4200528e4f8469/black/210x120.png", SWR RP HD
+http://192.168.118.129:8080/index.m3u8?channel=swr-fernsehen-rp
+#EXTINF:0001 tvg-id="HR.de" group-title="National" tvg-logo="https://images.zattic.com/logos/f9fce1487da75bf65159/black/210x120.png", HR HD
+http://192.168.118.129:8080/index.m3u8?channel=hr
+#EXTINF:0001 tvg-id="rbbBerlin.de" group-title="National" tvg-logo="https://images.zattic.com/logos/823d10599014e6b23d78/black/210x120.png", rbb Berlin HD
+http://192.168.118.129:8080/index.m3u8?channel=rbb
+#EXTINF:0001 tvg-id="SRFernsehen.de" group-title="National" tvg-logo="https://images.zattic.com/logos/c50695d215e17cb3f886/black/210x120.png", SR Fernsehen HD
+http://192.168.118.129:8080/index.m3u8?channel=sr-fernsehen
+#EXTINF:0001 tvg-id="Radio Bremen TV HD" group-title="National" tvg-logo="https://images.zattic.com/logos/2aa8d253274dfa4f81a4/black/210x120.png", Radio Bremen TV HD
+http://192.168.118.129:8080/index.m3u8?channel=radio-bremen-tv
+#EXTINF:0001 tvg-id="RTLNitro.de" group-title="National" tvg-logo="https://images.zattic.com/logos/7488e841644a1ed6dbb0/black/210x120.png", NITRO HD
+http://192.168.118.129:8080/index.m3u8?channel=rtlnitro_de
+#EXTINF:0001 tvg-id="ZDFneo.de" group-title="National" tvg-logo="https://images.zattic.com/logos/de09c10b090491ef8806/black/210x120.png", ZDFneo HD
+http://192.168.118.129:8080/index.m3u8?channel=zdfneo
+#EXTINF:0001 tvg-id="ServusHD.de" group-title="National" tvg-logo="https://images.zattic.com/logos/bd9d0bcc49c2b74017ad/black/210x120.png", Servus TV Deutschland HD
+http://192.168.118.129:8080/index.m3u8?channel=servus_tv
+#EXTINF:0001 tvg-id="RTLPlus.de" group-title="National" tvg-logo="https://images.zattic.com/logos/1ce1b55cfb50e9f27fcb/black/210x120.png", RTLplus HD
+http://192.168.118.129:8080/index.m3u8?channel=rtl_plus
+#EXTINF:0001 tvg-id="Sat1Gold.de" group-title="National" tvg-logo="https://images.zattic.com/logos/a9a9fb576a02e3b3844b/black/210x120.png", SAT.1 Gold HD
+http://192.168.118.129:8080/index.m3u8?channel=sat1gold
+#EXTINF:0001 tvg-id="tagesschau24.de" group-title="National" tvg-logo="https://images.zattic.com/logos/13077bf5f6b1fde5aaca/black/210x120.png", tagesschau24 HD
+http://192.168.118.129:8080/index.m3u8?channel=einsextra
+#EXTINF:0001 tvg-id="EuronewsDE.nws" group-title="National" tvg-logo="https://images.zattic.com/logos/0e02542eb2039c602995/black/210x120.png", Euronews [ger]
+http://192.168.118.129:8080/index.m3u8?channel=euronewsgerman
+#EXTINF:0001 tvg-id="One.de" group-title="National" tvg-logo="https://images.zattic.com/logos/7490dbd81ca7b22871f5/black/210x120.png", ONE HD
+http://192.168.118.129:8080/index.m3u8?channel=einsfestival
+#EXTINF:0001 tvg-id="ZDFinfo.de" group-title="National" tvg-logo="https://images.zattic.com/logos/bfabafc809aa7b6db677/black/210x120.png", ZDFinfo HD
+http://192.168.118.129:8080/index.m3u8?channel=zdf-info
+#EXTINF:0001 tvg-id="ARD-alpha.de" group-title="National" tvg-logo="https://images.zattic.com/logos/e96fafec01ec632f9b38/black/210x120.png", ARD-alpha HD
+http://192.168.118.129:8080/index.m3u8?channel=br-alpha
+#EXTINF:0001 tvg-id="WeltDerWunder.de" group-title="National" tvg-logo="https://images.zattic.com/logos/7ba79ea10855c450d5a5/black/210x120.png", Welt der Wunder
+http://192.168.118.129:8080/index.m3u8?channel=weltderwunder
+#EXTINF:0001 tvg-id="RiC.de" group-title="National" tvg-logo="https://images.zattic.com/logos/abebc6ebb54e8734f5fb/black/210x120.png", RiC
+http://192.168.118.129:8080/index.m3u8?channel=ric
+#EXTINF:0001 tvg-id="eoTV.de" group-title="National" tvg-logo="https://images.zattic.com/logos/0a16b9a9cec5ad319cc0/black/210x120.png", eoTV HD
+http://192.168.118.129:8080/index.m3u8?channel=eotv
+#EXTINF:0001 tvg-id="QS24.ch" group-title="National" tvg-logo="https://images.zattic.com/logos/2fff22bd72078e8361f4/black/210x120.png", QS24
+http://192.168.118.129:8080/index.m3u8?channel=qs24_ch
+#EXTINF:0001 tvg-id="HealthTV.de" group-title="National" tvg-logo="https://images.zattic.com/logos/58d90517c0ad79cc2f56/black/210x120.png", Health.tv
+http://192.168.118.129:8080/index.m3u8?channel=health_tv_de
+#EXTINF:0001 tvg-id="SonnenKlar.de" group-title="National" tvg-logo="https://images.zattic.com/logos/f7c6bbee06f82b7ea818/black/210x120.png", Sonnenklar TV
+http://192.168.118.129:8080/index.m3u8?channel=sonnenklartv
+#EXTINF:0001 tvg-id="DAF.de" group-title="National" tvg-logo="https://images.zattic.com/logos/d93accd858d2b3719f3e/black/210x120.png", Der Aktionär TV HD
+http://192.168.118.129:8080/index.m3u8?channel=daf
+#EXTINF:0001 tvg-id="FashionTV.eu" group-title="National" tvg-logo="https://images.zattic.com/logos/762896ae385fd9cdb9bf/black/210x120.png", Fashion TV HD
+http://192.168.118.129:8080/index.m3u8?channel=fashiontv
+#EXTINF:0001 tvg-id="DeLuxeMusic.de" group-title="National" tvg-logo="https://images.zattic.com/logos/b154c144de9f0901831f/black/210x120.png", DELUXE MUSIC
+http://192.168.118.129:8080/index.m3u8?channel=deluxe-music
+#EXTINF:0001 tvg-id="DeutschesMusikFernsehen.de" group-title="National" tvg-logo="https://images.zattic.com/logos/15c35ef6d6aca190bba2/black/210x120.png", Deutsches Musik Fernsehen
+http://192.168.118.129:8080/index.m3u8?channel=deutschesmusikfernsehen
+#EXTINF:0001 tvg-id="FolxTV.de" group-title="National" tvg-logo="https://images.zattic.com/logos/dfc4bf9e991ea9217b2c/black/210x120.png", Folx TV
+http://192.168.118.129:8080/index.m3u8?channel=folx_tv_at
+#EXTINF:0001 tvg-id="HSE24.de" group-title="National" tvg-logo="https://images.zattic.com/logos/ce45fee933168c42b1c5/black/210x120.png", HSE 24 HD
+http://192.168.118.129:8080/index.m3u8?channel=hse24
+#EXTINF:0001 tvg-id="HSE24Extra.de" group-title="National" tvg-logo="https://images.zattic.com/logos/57970396819b2a8225ff/black/210x120.png", HSE24 Extra HD
+http://192.168.118.129:8080/index.m3u8?channel=hse24_extra
+#EXTINF:0001 tvg-id="HSE24Trend.de" group-title="National" tvg-logo="https://images.zattic.com/logos/41c4159d454bb3483551/black/210x120.png", HSE24 Trend
+http://192.168.118.129:8080/index.m3u8?channel=hse24_trend
+#EXTINF:0001 tvg-id="123.tv.de" group-title="National" tvg-logo="https://images.zattic.com/logos/11e700850ca6b423b9cf/black/210x120.png", 1-2-3 TV HD
+http://192.168.118.129:8080/index.m3u8?channel=123tv
+#EXTINF:0001 tvg-id="QVC.de" group-title="National" tvg-logo="https://images.zattic.com/logos/5132e0e6dd1dce18eb67/black/210x120.png", QVC HD
+http://192.168.118.129:8080/index.m3u8?channel=qvc_germany
+#EXTINF:0001 tvg-id="QVCPlus.de" group-title="National" tvg-logo="https://images.zattic.com/logos/6d1392a426a22b8f9cd9/black/210x120.png", QVC 2 HD
+http://192.168.118.129:8080/index.m3u8?channel=qvcplus
+#EXTINF:0001 tvg-id="QVCBeauty.de" group-title="National" tvg-logo="https://images.zattic.com/logos/e59da051e4179444958b/black/210x120.png", QVC Style HD
+http://192.168.118.129:8080/index.m3u8?channel=qvc_beauty_de
+#EXTINF:0001 tvg-id="Channel21.de" group-title="National" tvg-logo="https://images.zattic.com/logos/23466fd44de29be602e6/black/210x120.png", Channel 21 HD
+http://192.168.118.129:8080/index.m3u8?channel=channel21
+#EXTINF:0001 tvg-id="BibelTV.de" group-title="National" tvg-logo="https://images.zattic.com/logos/3f5ccb1581be8bbec24f/black/210x120.png", Bibel TV HD
+http://192.168.118.129:8080/index.m3u8?channel=bibeltv
+#EXTINF:0001 tvg-id="BR.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/7bede2308528e63feaac/black/210x120.png", BR Fernsehen Süd HD
+http://192.168.118.129:8080/index.m3u8?channel=br
+#EXTINF:0001 tvg-id="MDRS-Anhalt.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/1694a32cffbc010c5733/black/210x120.png", MDR SACHSEN-ANHALT HD
+http://192.168.118.129:8080/index.m3u8?channel=mdr-sachsen-anhalt
+#EXTINF:0001 tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/d6c1a2327093c052c1eb/black/210x120.png", MDR THÜRINGEN HD
+http://192.168.118.129:8080/index.m3u8?channel=mdr-thueringen
+#EXTINF:0001 tvg-id="ndr.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/eb7b33ef21dfc34dfcd4/black/210x120.png", NDR Hamburg HD
+http://192.168.118.129:8080/index.m3u8?channel=ndr-hamburg
+#EXTINF:0001 tvg-id="ndrmv.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/e6a1d9d07ceb8a52c64b/black/210x120.png", NDR Mecklenburg-Vorpommern HD
+http://192.168.118.129:8080/index.m3u8?channel=ndr-mv
+#EXTINF:0001 tvg-id="ndrsh.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/84c61efb06cb696366d2/black/210x120.png", NDR Schleswig-Holstein HD
+http://192.168.118.129:8080/index.m3u8?channel=ndr-schleswig-holstein
+#EXTINF:0001 tvg-id="rbbBrandenburg.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/a1b6f662da995837ed2b/black/210x120.png", rbb Brandenburg HD
+http://192.168.118.129:8080/index.m3u8?channel=rbb-brandenburg
+#EXTINF:0001 tvg-id="SWR.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/5edb77a08387f0b820f6/black/210x120.png", SWR BW HD
+http://192.168.118.129:8080/index.m3u8?channel=swr-fernsehen-bw
+#EXTINF:0001 tvg-id="WDRAachen.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/b297a9d6a5027e96e3dd/black/210x120.png", WDR Aachen HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-aachen
+#EXTINF:0001 tvg-id="WDRBielefeld.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/f87c999d42a91fdd0c24/black/210x120.png", WDR Bielefeld HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-bielefeld
+#EXTINF:0001 tvg-id="WDRBonn.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/a09d3b102e466b272702/black/210x120.png", WDR Bonn HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-bonn
+#EXTINF:0001 tvg-id="WDRDortmund.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/abfc73bea09900af30b4/black/210x120.png", WDR Dortmund HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-dortmund
+#EXTINF:0001 tvg-id="WDRDuesseldorf.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/c77ec26b4c2760344528/black/210x120.png", WDR Düsseldorf HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-duesseldorf
+#EXTINF:0001 tvg-id="WDRDuisburg.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/e588c0dee4d84719cfad/black/210x120.png", WDR Duisburg HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-duisburg
+#EXTINF:0001 tvg-id="WDREssen.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/7322fd8d1e4e15f3fbc5/black/210x120.png", WDR Essen HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-essen
+#EXTINF:0001 tvg-id="WDRMuenster.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/7ba8a7b193c65b19a929/black/210x120.png", WDR Muenster HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-muenster
+#EXTINF:0001 tvg-id="WDRSiegen.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/e0117059f8b2a6641cc5/black/210x120.png", WDR Siegen HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-siegen
+#EXTINF:0001 tvg-id="WDRWuppertal.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/a4216724cef26a894c45/black/210x120.png", WDR Wuppertal HD
+http://192.168.118.129:8080/index.m3u8?channel=wdr-wuppertal
+#EXTINF:0001 tvg-id="nrwision.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/cb204e81bbf94823ab65/black/210x120.png", NRWision HD
+http://192.168.118.129:8080/index.m3u8?channel=nrwision
+#EXTINF:0001 tvg-id="Saarland1.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/bd221b94683caf4d6acb/black/210x120.png", Saarland Fernsehen 1
+http://192.168.118.129:8080/index.m3u8?channel=saarland_fernsehen1
+#EXTINF:0001 tvg-id="BadenTV.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/981dcc072e59d07a8497/black/210x120.png", Baden TV
+http://192.168.118.129:8080/index.m3u8?channel=baden_tv_de
+#EXTINF:0001 tvg-id="BadenTVSud.de" group-title="Regional" tvg-logo="https://images.zattic.com/logos/336ac9184be71f2dc88c/black/210x120.png", Baden TV Süd HD
+http://192.168.118.129:8080/index.m3u8?channel=baden_tv_sued_de
+#EXTINF:0001 tvg-id="ORF2Europe.at" group-title="International" tvg-logo="https://images.zattic.com/logos/bc48b8b5bc35b6e09627/black/210x120.png", ORF 2 Europe
+http://192.168.118.129:8080/index.m3u8?channel=orf2_europe
+#EXTINF:0001 tvg-id="SRFinfo.nws" group-title="International" tvg-logo="https://images.zattic.com/logos/1a451842a885328f94b4/black/210x120.png", SRF info HD
+http://192.168.118.129:8080/index.m3u8?channel=sf-info-intl
+#EXTINF:0001 tvg-id="CNN.nws" group-title="International" tvg-logo="https://images.zattic.com/logos/313c55f90368cad92afc/black/210x120.png", CNN International HD
+http://192.168.118.129:8080/index.m3u8?channel=cnn-international
+#EXTINF:0001 tvg-id="CNNMoney.ch" group-title="International" tvg-logo="https://images.zattic.com/logos/0c9ffbe2b376fcf8f640/black/210x120.png", CNNMoney Switzerland HD
+http://192.168.118.129:8080/index.m3u8?channel=cnnmoney_switzerland
+#EXTINF:0001 tvg-id="AlJazeera.nws" group-title="International" tvg-logo="https://images.zattic.com/logos/9940d772b96cd155a80b/black/210x120.png", Al Jazeera English HD
+http://192.168.118.129:8080/index.m3u8?channel=al-jazeera
+#EXTINF:0001 tvg-id="AlJazeeraArabe.nws" group-title="International" tvg-logo="https://images.zattic.com/logos/f2501888da3e47bd2004/black/210x120.png", Al Jazeera HD
+http://192.168.118.129:8080/index.m3u8?channel=al-jazeera-arabic
+#EXTINF:0001 tvg-id="France24fr.fr" group-title="International" tvg-logo="https://images.zattic.com/logos/64a23271e56959ecf49c/black/210x120.png", France 24 HD [fr]
+http://192.168.118.129:8080/index.m3u8?channel=france-24-fr
+#EXTINF:0001 tvg-id="France24.fr" group-title="International" tvg-logo="https://images.zattic.com/logos/5aab5d89d511824aed90/black/210x120.png", France 24 HD [en]
+http://192.168.118.129:8080/index.m3u8?channel=france-24-en
+#EXTINF:0001 tvg-id="Bloomberg.nws" group-title="International" tvg-logo="https://images.zattic.com/logos/9abcf325659bb33ba473/black/210x120.png", Bloomberg TV
+http://192.168.118.129:8080/index.m3u8?channel=bloomberg-europe
+#EXTINF:0001 tvg-id="Euronews.nws" group-title="International" tvg-logo="https://images.zattic.com/logos/0e02542eb2039c602995/black/210x120.png", EuroNews [en] HD
+http://192.168.118.129:8080/index.m3u8?channel=euronews-en
+#EXTINF:0001 tvg-id="DeutscheWelleEN.de" group-title="International" tvg-logo="https://images.zattic.com/logos/a214a7de28466f43e4dd/black/210x120.png", Deutsche Welle [en]
+http://192.168.118.129:8080/index.m3u8?channel=deutsche-welle
+#EXTINF:0001 tvg-id="DeutscheWelleES.de" group-title="International" tvg-logo="https://images.zattic.com/logos/adeaa371af1aa1fea41b/black/210x120.png", Deutsche Welle Spanish
+http://192.168.118.129:8080/index.m3u8?channel=deutschewelle_es
+#EXTINF:0001 tvg-id="DeutscheWelleAR.de" group-title="International" tvg-logo="https://images.zattic.com/logos/b76ee0ec33407f51ae75/black/210x120.png", Deutsche Welle Arabic
+http://192.168.118.129:8080/index.m3u8?channel=deutschewelle_ar
+#EXTINF:0001 tvg-id="ArirangTv.kr" group-title="International" tvg-logo="https://images.zattic.com/logos/79418d67a7bd42495d39/black/210x120.png", Arirang TV HD
+http://192.168.118.129:8080/index.m3u8?channel=arirang_kr
+#EXTINF:0001 tvg-id="NetViet.vn" group-title="International" tvg-logo="https://images.zattic.com/logos/e51d8d02eb30922eee7a/black/210x120.png", NETVIET
+http://192.168.118.129:8080/index.m3u8?channel=netviet_vn
+#EXTINF:0001 tvg-id="Sonlife.uk" group-title="International" tvg-logo="https://images.zattic.com/logos/140cc2ccc58fa266cfa2/black/210x120.png", SONLife
+http://192.168.118.129:8080/index.m3u8?channel=sonlife
+#EXTINF:0001 tvg-id="GODChannel.eu" group-title="International" tvg-logo="https://images.zattic.com/logos/29a59b8688c583daf281/black/210x120.png", GOD TV
+http://192.168.118.129:8080/index.m3u8?channel=god-channel-tv
+#EXTINF:0001 tvg-id="TVE.sp" group-title="International" tvg-logo="https://images.zattic.com/logos/92a377169f1ce2856d9a/black/210x120.png", TVE HD
+http://192.168.118.129:8080/index.m3u8?channel=tve
+#EXTINF:0001 tvg-id="Canal24Horas.es" group-title="International" tvg-logo="https://images.zattic.com/logos/93b42a0d35defc25ca42/black/210x120.png", 24H HD
+http://192.168.118.129:8080/index.m3u8?channel=canal24horas
+#EXTINF:0001 tvg-id="RTDocumentary.pl" group-title="International" tvg-logo="https://images.zattic.com/logos/ddb01a357b299fc6f18e/black/210x120.png", RT Doc
+http://192.168.118.129:8080/index.m3u8?channel=rt_doc
